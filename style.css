@@ -393,7 +393,23 @@ nav {
 .icono3 img {
     width: 160px;
 }
-
+.quote {
+    background-color: var(--color-3);
+    width: 100%;
+    height: auto;
+    padding: 60px 0;
+    color: var(--color-2);
+}
+.quote h2 {
+     font-size: 2.6rem;
+    line-height: 1;
+     font-family: var(--font-principal);
+    padding: 0;
+    margin: 20px 0;
+    text-align: center;
+    max-width: 320px;
+    margin: auto;
+}
 
 /*TIMELINE*/
 
